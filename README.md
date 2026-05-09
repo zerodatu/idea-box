@@ -24,4 +24,4 @@ issueでもmdファイルでもいいよ
 
 ## アイデア一覧
 
-[アイデア一覧リスト](IdeaPost/EnglishLearnAudioCreate.md)
+[アイデア一覧リスト](IdeaPost/idaa_table.md)
